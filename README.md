@@ -1,1 +1,1 @@
-This Project is about Data Science, where we can predict using different models.
+This Project is based on Data Science, where we can predict using different models.
